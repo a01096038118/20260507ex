@@ -45,20 +45,18 @@ print(operator. pow(10,20))   #거듭제곱
 
 import operator
 print(10 + 20)
-print(operator. eq(10,20))   #거듭제곱
+print(operator. eq(10,20))   
 
 import operator
 print(10 + 20)
-print(operator. ne(10,20))   #거듭제곱
+print(operator. ne(10,20))   
 
 import operator
 print(10 + 20)
-print(operator. gt(10,20))   #거듭제곱
-
+print(operator. gt(10,20))   
 import operator
 print(10 + 20)
-print(operator. ge(10,20))   #거듭제곱
-
+print(operator. ge(10,20))   
 
 import operator
 print(10 + 20)

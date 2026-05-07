@@ -56,9 +56,9 @@
 # reslut = (num1 < num3) and (num2 < num3) and (num3 > num1)   #True
 # print(f'reslut: {reslut}')
 
-print('------------------------------------------')
-print( 5 or 6 )
-print( 5 | 7)
+# print('------------------------------------------')
+# print( 5 or 6 )
+# print( 5 | 7)
 
 
 # and, or 연산시 주의사항
